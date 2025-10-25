@@ -1,0 +1,76 @@
+{
+    "cars": [
+        {
+            "id": "1",
+            "name": "Tesla Model S",
+            "brand": "Tesla",
+            "category": "Electric",
+            "price": "89999",
+            "image": "/images/tesla-model-s.jpg",
+            "description": "A premium all-electric sedan offering top-notch performance and range."
+        },
+        {
+            "id": "2",
+            "name": "Ford F-150",
+            "brand": "Ford",
+            "category": "Truck",
+            "price": "55999",
+            "image": "/images/ford-f150.jpg",
+            "description": "America’s best-selling pickup with a blend of power and reliability."
+        },
+        {
+            "id": "3",
+            "name": "Toyota Camry",
+            "brand": "Toyota",
+            "category": "Sedan",
+            "price": "29999",
+            "image": "/images/toyota-camry.jpg",
+            "description": "A comfortable and fuel-efficient mid-size sedan."
+        },
+        {
+            "id": "4",
+            "name": "BMW X5",
+            "brand": "BMW",
+            "category": "SUV",
+            "price": "75999",
+            "image": "/images/bmw-x5.jpg",
+            "description": "A luxury SUV with elegant design and sporty performance."
+        },
+        {
+            "id": "5",
+            "name": "Hyundai Ioniq 5",
+            "brand": "Hyundai",
+            "category": "Electric",
+            "price": "45999",
+            "image": "/images/hyundai-ioniq5.jpg",
+            "description": "Stylish electric crossover with advanced tech and fast charging."
+        },
+        {
+            "id": "6",
+            "name": "Honda Accord",
+            "brand": "Honda",
+            "category": "Sedan",
+            "price": "27999",
+            "image": "/images/honda-accord.jpg",
+            "description": "A dependable family sedan with great mileage and comfort."
+        },
+        {
+            "id": "7",
+            "name": "Chevrolet Tahoe",
+            "brand": "Chevrolet",
+            "category": "SUV",
+            "price": "62999",
+            "image": "/images/chevrolet-tahoe.jpg",
+            "description": "A full-size SUV built for power, space, and capability."
+        },
+        {
+            "id": "8",
+            "name": "Rivian R1T",
+            "brand": "Rivian",
+            "category": "Truck",
+            "price": "74999",
+            "image": "/images/rivian-r1t.jpg",
+            "description": "An innovative all-electric adventure truck built for the future."
+        }
+    ]
+}
